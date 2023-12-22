@@ -1,0 +1,80 @@
+.btn-kelas {
+    margin-top: 15px;
+    margin-left: 12px;
+    width: 100px;
+    height: 42px;
+}
+
+.btn-kelas {
+    width: 312px;
+    height: 42px;
+    margin-top: 35px;
+    border-radius: 20px;
+    background-color: #2AB9D9;
+    color: white;
+    border: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-detail,
+.btn-mengapa {
+    width: 312px;
+    height: 42px;
+    margin-top: 35px;
+    border-radius: 20px;
+    background-color: #2AB9D9;
+    color: white;
+    border: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    justify-content: space-between;
+}
+
+.btn-detail {
+    margin-left: 388px;
+    margin-bottom: 25px;
+}
+
+.btn-mengapa{
+    margin-right: 232px;
+    margin-bottom: 25px;
+}
+
+.notif{
+    border-radius: 50%;
+    color: #00529E ;
+    background-color: white;
+    margin-top: 12px;
+    margin-left: 65px;
+    height: 41px;
+    width: 41px;
+}
+
+.left {
+    background-color: #2AB9D9;
+    color: white;
+    flex-direction: column;
+    border-top-right-radius: 15px;
+    /* Radius sudut kanan atas */
+    border-bottom-right-radius: 15px;
+    margin-top: 42px;
+    height: 584px;
+    width: 115%;
+}
+
+.done{
+    background-color: white;
+    color: #00529E;
+}
+
+.deskripsi {
+    text-align: justify;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+

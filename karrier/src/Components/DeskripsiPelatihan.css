@@ -1,0 +1,113 @@
+.image {
+    height: 315px;
+    width: 1728px;
+    /* background: url(img/img/Rectangle\ 96.svg); */
+    background-repeat: no-repeat;
+    position: absolute;
+    /* border-radius: 0px 0px 0px 1000px; */
+    z-index: -1;
+    align-items: end;
+}
+
+.image img {
+    position: absolute;
+    bottom: 10%;
+    /* width: fit-content; */
+    border-radius: 0px 0px 0px 2000px;
+    right: 15.2%;
+    width: 1500px;
+    /* height: 290px; */
+}
+
+.btn-back {
+    margin-bottom: 88.93px;
+    margin-left: 74px;
+    width: 137px;
+    height: 41px;
+}
+
+.header {
+    margin-left: 223px;
+    color: white;
+}
+
+.header h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.header h3 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.deskripsi {
+    margin-top: 76px;
+    margin-left: 114px;
+}
+
+
+.gambar {
+    justify-content: space-between;
+    /* position: absolute; */
+    align-items: center;
+    z-index: 1;
+}
+
+.gambar img {
+    width: 546px;
+    height: 382px;
+}
+
+.btn-back {
+    width: 137.47px;
+    height: 41.07px;
+    margin-top: 35px;
+    border-radius: 20px;
+    background-color: skyblue;
+    color: #00529E;
+    border: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.deskripsi p {
+    text-align: justify;
+    width: 810px;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.deskripsi h3 {
+    color: #000;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.access-btn {
+    width: 358px;
+    height: 63px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    border: none;
+    background: #2AB9D9;
+    font-size: 24px;
+    color: #FFF;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.akses {
+    justify-content: center;
+    margin-bottom: 48px;
+}
